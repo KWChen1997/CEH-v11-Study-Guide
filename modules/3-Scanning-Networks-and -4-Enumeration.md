@@ -595,16 +595,16 @@ Attackers enumerate SNMP to extract information about network resources such as 
 
 ![f](https://networkencyclopedia.com/wp-content/uploads/2019/08/nbtstat.jpg)
 
-| Code | Type   | Meaning                   |
-| ---- | ------ | ------------------------- |
-| <1E> | GROUP  | Browser service elections |
-| <1B> | UNIQUE | Domain master browser     |
-| <1C> | UNIQUE | Domain controller         |
-| <1D> | GROUP  | Master browser for subnet |
-| <00> | UNIQUE | Hostname                  |
-| <00> | GROUP  | Domain name               |
-| <03> | UNIQUE | Service running on system |
-| <20> | UNIQUE | Server service running    |
+| Code | Type   | Meaning                             |
+| ---- | ------ | ----------------------------------- |
+| <1E> | GROUP  | Browser service elections           |
+| <1B> | UNIQUE | Domain master browser               |
+| <1C> | UNIQUE | Domain controller                   |
+| <1D> | GROUP  | Master browser for subnet           |
+| <00> | UNIQUE | Hostname                            |
+| <00> | GROUP  | Domain name                         |
+| <03> | UNIQUE | Messenger service running on system |
+| <20> | UNIQUE | Server service running              |
 
 - NetBIOS name resolution doesn't work on IPv6
 - **Other Tools for NetBIOS enumeration:**
