@@ -220,7 +220,7 @@ There is an inter dependency between these three attributes. When **security goe
   - Idenfitying problems and resource requirements.
   - Creating plan for identified resource requirements.
   - Applying appropriate IA controls.
-  - Performing C&A (Certification and Accreditation) process of information systems helps to trace vulnerabilities, and implement sa fety measures.
+  - Performing C&A (Certification and Accreditation) process of information systems helps to trace vulnerabilities, and implement safety measures.
   - Providing information assurance training to all personnel in federal and private org.
 
 ## <u>Information Security Management Program </u>
