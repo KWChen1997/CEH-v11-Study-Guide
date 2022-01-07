@@ -446,8 +446,8 @@ Hping3 is a scriptable program that uses the Tcl language, whereby packets can b
   - ![cvss](https://3.bp.blogspot.com/-5V1cb_wTvsk/Wl78iF4Sd8I/AAAAAAAAF7U/KmK4pMXi54YworDgh4uI8aZtHgy0bbznQCLcBGAs/s1600/CVSS.png)
     - None - white (0.0)
     - Low - green tones (0.1 - 3.9)
-    - Medium - yellow/light orange (4.0 - 4.9)
-    - High - orange (7.0 - 8.0)
+    - Medium - yellow/light orange (4.0 - 6.9)
+    - High - orange (7.0 - 8.9)
     - Critical - red (9.0 - 10.0)
 
 - **CVE – Common Vulnerabilities and Exposures** [[+]](https://cve.mitre.org/)
