@@ -597,6 +597,7 @@ Attackers enumerate SNMP to extract information about network resources such as 
 
 | Code | Type   | Meaning                   |
 | ---- | ------ | ------------------------- |
+| <1E> | GROUP  | Browser service elections |
 | <1B> | UNIQUE | Domain master browser     |
 | <1C> | UNIQUE | Domain controller         |
 | <1D> | GROUP  | Master browser for subnet |
